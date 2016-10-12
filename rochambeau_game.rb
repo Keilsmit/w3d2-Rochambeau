@@ -58,7 +58,7 @@ class Game
         end
       puts outcome
     end
-    # game_outcume ENDS here
+    # game_outcome ENDS here
 
 
 
